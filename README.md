@@ -15,13 +15,11 @@ Want to switch to Ember? You're also going to have to switch your coding standar
 
 
 ### jshint only
-Want to bring your eslint configuration instead of their jshint configuration? Nope, the ember-cli is locked into their jshint setup.
-https://github.com/ember-cli/rfcs/pull/15
+Want to bring your eslint configuration instead of their jshint configuration? Nope, the ember-cli is locked into their jshint setup. https://github.com/ember-cli/rfcs/pull/15
 
 
 ### release sync
-Want to use the Ember 2.0 (the latest stable version)? Nope, the ember-cli will still install Ember v1.13.
-https://github.com/ember-cli/ember-cli/issues/4671
+Want to use the Ember 2.0 (the latest stable version)? Nope, despite the Ember 2.0 docs, the ember-cli will still install Ember v1.13. https://github.com/ember-cli/ember-cli/issues/4671
 
 
 ## praise
