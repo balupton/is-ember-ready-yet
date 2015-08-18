@@ -19,7 +19,7 @@ Want to bring your eslint configuration instead of their jshint configuration? N
 https://github.com/ember-cli/rfcs/pull/15
 
 
-### ember 2.0
+### release sync
 Want to use the Ember 2.0 (the latest stable version)? Nope, the ember-cli will still install Ember v1.13.
 https://github.com/ember-cli/ember-cli/issues/4671
 
