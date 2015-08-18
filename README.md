@@ -1,6 +1,6 @@
 # Can you move to Ember yet?
 
-So Ember 2.0 is out, it's meant to be amazing, or at least [this talk](https://www.youtube.com/watch?v=maAWS8URMJs) says so. So you've been using something else for the past 10 years, what things may you run into migrating to Ember 2.0?
+Ember 2.0 is out, it's meant to be amazing, or at least [this talk](https://www.youtube.com/watch?v=maAWS8URMJs) says so. You've been using something else for the past 10 years, what things may you run into migrating to Ember 2.0?
 
 
 ## pain
