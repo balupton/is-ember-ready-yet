@@ -21,4 +21,10 @@ Want to use the Ember 2.0 (the latest stable version)? Nope, the ember-cli will 
 https://github.com/ember-cli/ember-cli/issues/4671
 
 
+---
+
 Got more hitches? Are you funnier than this? [Pull request.](https://github.com/balupton/can-you-move-to-ember-yet/edit/master/README.md)
+
+---
+
+The goal of this repo is to provide exposure for common pain points that newcommers are facing with adopting ember. With increased exposure, hopefully newcomers will know what they are up against, and be better equipped to deal with the pain points when they face them, as well as help the ember community resolve these issues that newcommers face. Ember is awesome, give it a go.
