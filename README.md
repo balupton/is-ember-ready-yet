@@ -23,7 +23,7 @@ Want to use the Ember 2.0 (the latest stable version)? Nope, despite the Ember 2
 
 
 ### size
-It's never mentioned, but in case you were wondering, Ember 2.0 is 107.46KB minified+gzipped (420.34KB minified). Would be nice if this was mentioned somewhere on the website.
+It's never mentioned, but in case you were wondering, Ember 2.0 is 107.46KB gzipped. Would be nice if this was mentioned somewhere on the website. In comparison, Polymer 1.0 is 40.02KB gzipped, React 0.13.3 is 35.36KB gzipped.
 
 
 ## praise
