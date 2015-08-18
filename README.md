@@ -27,7 +27,7 @@ https://github.com/ember-cli/ember-cli/issues/4671
 ## praise
 
 ### [emberaddons.com](http://www.emberaddons.com)
-Want something ember related? This website has it all. It's not quite [Polymer Elements](https://elements.polymer-project.org) yet, but it's quick links to demo pages gets you by.
+Want something ember related? This website has it all. It's not quite [Polymer Elements](https://elements.polymer-project.org) yet, but it's quick links to demo pages gets you by. The quality rating of each item is also super nifty.
 
 
 
