@@ -4,7 +4,7 @@ So Ember 2.0 is out, it's meant to be amazing, or at least [this talk](https://w
 
 
 ## all-in workflow
-The only way mentioned now in the docs of using Ember, is via their ember-cli. No more days of including as little or as much of ember as you need into your existing page. It's now all-in for the ember + ember-cli way, or you're on your own.
+The only way that the docs say you can use Ember now, is via their ember-cli. No more days of including as little or as much of ember as you need into your existing page. It's now all-in for the ember + ember-cli way, or you're on your own.
 
 
 ## all-in conventions
