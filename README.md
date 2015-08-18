@@ -11,7 +11,7 @@ The only way that the docs say you can use Ember now, is via their ember-cli. No
 
 
 ### all-in conventions
-Want to switch to Ember? You're also going to have to switch your coding standards. The ember-cli will scaffold a new project for you which coding standards are the ember team's coding standards. It would be nice if you could bring your own eslint conventions, and they use esformatter, with [this](https://github.com/flet/eslint-to-esformatter), so that your company can still maintain consistent coding standards accross it's projects, even ember ones.
+Want to switch to Ember? You're also going to have to switch your coding standards. The ember-cli will scaffold a new project for you which coding standards are the ember team's coding standards. It would be nice if you could supply your own eslint file to the cli, which could use [esformatter](https://github.com/millermedeiros/esformatter/) with [this](https://github.com/flet/eslint-to-esformatter), so that your company can still maintain consistent coding standards accross it's projects, even ember ones.
 
 
 ### jshint only
