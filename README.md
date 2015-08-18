@@ -29,7 +29,7 @@ It's never mentioned, but in case you were wondering, Ember 2.0 is 107.46KB gzip
 ## praise
 
 ### [emberaddons.com](http://www.emberaddons.com)
-Want something ember related? This website has it all. It's not quite [Polymer Elements](https://elements.polymer-project.org) yet (which offers inline demos and docs), but it's quick links to demo pages gets you by. The quality rating of each item is also super nifty. Beats [React Parts](http://react.parts/web).
+Want something ember related? This website has it all. It's not quite [Polymer Elements](https://elements.polymer-project.org) yet (which offers inline demos and docs), but its quick links to demo pages gets you by. The quality rating of each item is also super nifty. Beats [React Parts](http://react.parts/web).
 
 
 
