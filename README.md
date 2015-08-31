@@ -21,12 +21,6 @@ Want to switch to Ember? You're also going to have to switch your coding standar
 Want to bring your eslint configuration instead of their jshint configuration? Nope, the ember-cli is locked into their jshint setup. https://github.com/ember-cli/rfcs/pull/15
 
 
-### reach
-
-If these have prevented you from using ember, [add your name](https://github.com/balupton/can-you-move-to-ember-yet/edit/master/README.md):
-
-- [balupton](https://github.com/balupton)
-
 
 
 
@@ -49,6 +43,11 @@ Want something ember related? This website has it all. It's not quite [Polymer E
 ## feedback
 
 Got more hitches? Are you funnier than this? [Pull request.](https://github.com/balupton/can-you-move-to-ember-yet/edit/master/README.md)
+
+Have you tried to use Ember but gave up? [Add your name](https://github.com/balupton/can-you-move-to-ember-yet/edit/master/README.md):
+
+- [balupton](https://github.com/balupton)
+
 
 ## why
 
