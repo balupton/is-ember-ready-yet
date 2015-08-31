@@ -12,6 +12,14 @@ Until these dealbreakers are solved, the following people have tried to adopt Em
 
 
 
+### release sync
+Want to use the Ember 2.0 (the latest stable version)? Nope, despite the Ember 2.0 docs, the ember-cli will still install Ember v1.13. https://github.com/ember-cli/ember-cli/issues/4671
+
+The release sync between Ember, Ember Data, and Ember Core - all critical components of Ember, has never been resolved for the many years they've been around - they are never stable, documented, and released together.
+
+As far as I'm concerned, this is the main reason why ember is vapourware. [original tweet](https://twitter.com/balupton/status/538911146317606912)
+
+
 ### all-in conventions
 Want to switch to Ember? You're also going to have to switch your coding standards. The ember-cli will scaffold a new project for you which coding standards are the ember team's coding standards. It would be nice if you could supply your own eslint file to the cli, which could use [esformatter](https://github.com/millermedeiros/esformatter/) with [this](https://github.com/flet/eslint-to-esformatter), so that your company can still maintain consistent coding standards accross its projects, even ember ones.
 
@@ -20,12 +28,6 @@ Want to switch to Ember? You're also going to have to switch your coding standar
 Want to bring your eslint configuration instead of their jshint configuration? Nope, the ember-cli is locked into their jshint setup. https://github.com/ember-cli/rfcs/pull/15
 
 
-### release sync
-Want to use the Ember 2.0 (the latest stable version)? Nope, despite the Ember 2.0 docs, the ember-cli will still install Ember v1.13. https://github.com/ember-cli/ember-cli/issues/4671
-
-The release sync between Ember, Ember Data, and Ember Core - all critical components of Ember, has never been resolved for the many years they've been around - they are never stable, documented, and released together.
-
-As far as I'm concerned, this is the main reason why ember is vapourware. [original tweet](https://twitter.com/balupton/status/538911146317606912)
 
 
 ## annoyances
