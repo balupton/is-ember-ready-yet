@@ -5,7 +5,7 @@ Ember 2.0 is out, it's meant to be amazing, or at least [this talk](https://www.
 
 ## dealbreakers
 
-Until these dealbreakers are solved, the following people have tried to adopt Ember, but have had to give up:
+Until these dealbreakers are solved, the following people have tried to adopt Ember, but have had to give up (listing limited to those who have read this):
 
 - [balupton](https://github.com/balupton)
 - [add yourself](https://github.com/balupton/can-you-move-to-ember-yet/edit/master/README.md)
