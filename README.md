@@ -5,13 +5,6 @@ Ember 2.0 is out, it's meant to be amazing, or at least [this talk](https://www.
 
 ## dealbreakers
 
-Until these dealbreakers are solved, the following people have tried to adopt Ember, but have had to give up (listing limited to those who have read this):
-
-- [balupton](https://github.com/balupton)
-- [add yourself](https://github.com/balupton/can-you-move-to-ember-yet/edit/master/README.md)
-
-
-
 ### release sync
 Want to use the Ember 2.0 (the latest stable version)? Nope, despite the Ember 2.0 docs, the ember-cli will still install Ember v1.13. https://github.com/ember-cli/ember-cli/issues/4671
 
@@ -26,6 +19,13 @@ Want to switch to Ember? You're also going to have to switch your coding standar
 
 ### jshint only
 Want to bring your eslint configuration instead of their jshint configuration? Nope, the ember-cli is locked into their jshint setup. https://github.com/ember-cli/rfcs/pull/15
+
+
+### reach
+
+If these have prevented you from using ember, [add your name](https://github.com/balupton/can-you-move-to-ember-yet/edit/master/README.md):
+
+- [balupton](https://github.com/balupton)
 
 
 
