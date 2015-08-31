@@ -10,8 +10,6 @@ Until these dealbreakers are solved, the following people have tried to adopt Em
 - [balupton](https://github.com/balupton)
 
 
-### all-in workflow
-The only way that the docs say you can use Ember now, is via their ember-cli. No more days of including as little or as much of ember as you need into your existing page. It's now all-in for the ember + ember-cli way, or you're on your own.
 
 
 ### all-in conventions
@@ -31,6 +29,9 @@ As far as I'm concerned, this is the main reason why ember is vapourware. [origi
 
 
 ## annoyances
+
+### all-in workflow
+The only way that the docs say you can use Ember now, is via their ember-cli. No more days of including as little or as much of ember as you need into your existing page. It's now all-in for the ember + ember-cli way, or you're on your own. It would be nice if some documentation about selective usage of Ember was around, perhaps as a supplement to the install guide.
 
 ### size
 It's never mentioned, but in case you were wondering, Ember 2.0 is 107.46KB gzipped — would be nice if this was mentioned somewhere on the website. In comparison, Polymer 1.0 is 40.02KB gzipped, React 0.13.3 is 35.36KB gzipped.
