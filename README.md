@@ -21,6 +21,10 @@ Want to bring your eslint configuration instead of their jshint configuration? N
 ### release sync
 Want to use the Ember 2.0 (the latest stable version)? Nope, despite the Ember 2.0 docs, the ember-cli will still install Ember v1.13. https://github.com/ember-cli/ember-cli/issues/4671
 
+The release sync between Ember, Ember Data, and Ember Core - all critical components of Ember, has never been resolved for the many years they've been around - they are never stable, documented, and released together.
+
+As far as I'm concerned, this is the main reason why ember is vapourware. [original tweet](https://twitter.com/balupton/status/538911146317606912)
+
 
 ### size
 It's never mentioned, but in case you were wondering, Ember 2.0 is 107.46KB gzipped — would be nice if this was mentioned somewhere on the website. In comparison, Polymer 1.0 is 40.02KB gzipped, React 0.13.3 is 35.36KB gzipped.
