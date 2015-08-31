@@ -3,7 +3,7 @@
 Ember 2.0 is out, it's meant to be amazing, or at least [this talk](https://www.youtube.com/watch?v=maAWS8URMJs) says so. You've been using something else for the past 10 years, what things may you run into migrating to Ember 2.0?
 
 
-## pain
+## dealbreaks
 
 
 ### all-in workflow
@@ -25,6 +25,8 @@ The release sync between Ember, Ember Data, and Ember Core - all critical compon
 
 As far as I'm concerned, this is the main reason why ember is vapourware. [original tweet](https://twitter.com/balupton/status/538911146317606912)
 
+
+## annoyances
 
 ### size
 It's never mentioned, but in case you were wondering, Ember 2.0 is 107.46KB gzipped — would be nice if this was mentioned somewhere on the website. In comparison, Polymer 1.0 is 40.02KB gzipped, React 0.13.3 is 35.36KB gzipped.
