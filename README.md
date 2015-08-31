@@ -3,7 +3,11 @@
 Ember 2.0 is out, it's meant to be amazing, or at least [this talk](https://www.youtube.com/watch?v=maAWS8URMJs) says so. You've been using something else for the past 10 years, what things may you run into migrating to Ember 2.0?
 
 
-## dealbreaks
+## dealbreakers
+
+Until these dealbreakers are solved, the following people have tried to adopt Ember, but have had to give up:
+
+- [balupton](https://github.com/balupton)
 
 
 ### all-in workflow
